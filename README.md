@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/abhyudai_108" target="blank"><img src="https://img.shields.io/twitter/follow/abhyudai_108?logo=twitter&style=for-the-badge" alt="abhyudai_108" /></a> </p>
 
-- 🔭 I’m currently working on **creating clone of spotify**
+- 🔭 I’m currently working on **the clone of Instagram**
 
 - 🌱 I’m currently learning **React js , SQL**
 
